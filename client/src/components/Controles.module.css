@@ -1,0 +1,57 @@
+.botones {
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+.botones button {
+  padding: 2px 7px 2px 7px;
+  color: #666;
+  background-color: #eeeeee;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  border-radius: 50px;
+  margin: 40px;
+}
+.titulo {
+  text-align: center;
+  color: white;
+}
+.titulo:hover {
+  opacity: 0.8;
+   color: black;
+}
+
+.botones button:hover {
+ opacity: 0.8;
+   color: black;
+}
+
+.controles select {  
+  padding: 2px 7px 2px 7px;
+  color: #666;
+  background-color: #eeeeee;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  border-radius: 50px;
+  margin: 40px;  
+}
+
+.controles label {
+  font-size: 15px;
+}
+.controles select:hover {
+  opacity: 0.8;
+  color: black;
+}
+
+/* .controles label {
+  
+  color: #666;
+  background-color: #eeeeee;
+  
+  text-decoration: none;
+  border-radius: 50px;
+ 
+} */
+
+

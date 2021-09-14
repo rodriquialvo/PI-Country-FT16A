@@ -1,0 +1,18 @@
+.Paginado {
+  display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+   
+}
+.button {
+  padding: 2px 7px 2px 7px;
+   color: #666;
+   background-color: #eeeeee;
+   border: 1px solid #ccc;
+   text-decoration: none;
+   border-radius: 50px;
+}
+.button:hover {
+  background-color: #333333;
+   color: #ffffff;
+}

@@ -1,0 +1,72 @@
+.form {
+  width:400px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color: #eeeeee;
+  opacity: 0.9;
+
+}
+
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+form input[type="text"]{
+	width:180px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	margin:8px 0;
+	display:inline-block;
+}
+
+form input[type="submit"]{
+	width:100%;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#000;
+} 
+
+form select {  
+  padding: 2px 7px 2px 7px;
+  color: #666;
+  background-color: #eeeeee;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  border-radius: 50px;
+  margin: 20px;  
+}
+
+form select:hover {
+  opacity: 0.8;
+  color: black;
+}
+
+form p {
+  color:red;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.volver {
+  text-align: center;  
+}
+.volver button {
+  padding: 2px 7px 2px 7px;
+  color: #666;
+  background-color: #eeeeee;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  border-radius: 50px;
+  margin: 40px;
+}

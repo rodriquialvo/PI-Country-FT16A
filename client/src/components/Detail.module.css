@@ -1,0 +1,33 @@
+.DetailsContainer {
+  display: flex;
+  justify-content: center;
+}
+
+
+.col {
+  max-height: 250px;
+  width: auto;
+  margin: 10px;
+}
+
+.DetailsContainer a {
+  text-align: center;
+}
+.DetailsContainer button {
+  text-align: center;
+  margin-left: 50%;
+  padding: 2px 7px 2px 7px;
+  color: #666;
+  background-color: #eeeeee;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  border-radius: 50px;
+}
+
+.DetailsContainer button:hover {
+  opacity: 0.8;
+   color: black;
+}
+.DetailsContainer img {
+  border-radius: 30px;
+}
